@@ -10928,3 +10928,28 @@ a.text-dark:focus {
   }
 }
 
+.label-email {
+  padding: 4px 6px;
+  margin-right: 2px;
+  margin-top: 4px;
+  border-radius: 10px;
+  background-color: #38c172;
+  color: #fff;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.label-email-close {
+  padding-right: 4px;
+  color: #e3342f;
+  cursor: pointer;
+}
+
+.input-email-valid {
+  border-color: #38c172;
+}
+
+.input-email-error {
+  border-color: #e3342f;
+}
+
